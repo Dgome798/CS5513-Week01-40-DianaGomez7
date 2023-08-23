@@ -1,6 +1,6 @@
 
 
-let myhttp = require('http');
+let myimg = require('img');
 
 
 let myserver = myhttp.createServer(
@@ -11,7 +11,7 @@ let myserver = myhttp.createServer(
     if ( myrequest.url === "/hey" ) {
       mytext = "Well hello there folks...";
     } else {
-      mytext = "I don't know you!";
+      mytext = "Hi how are you?";
     }
   
     myresponse.writeHead( 200, { "Content-Type": "text/plain" } );

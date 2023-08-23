@@ -1,0 +1,23 @@
+{
+  "name": "CS5513-Week01-40-DianaGomez7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dgome798/CS5513-Week01-40-DianaGomez7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dgome798/CS5513-Week01-40-DianaGomez7/issues"
+  },
+  "homepage": "https://github.com/Dgome798/CS5513-Week01-40-DianaGomez7#readme",
+  "dependencies": {
+    "img": "^3.0.3"
+  }
+}
